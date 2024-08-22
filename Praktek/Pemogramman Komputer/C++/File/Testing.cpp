@@ -49,7 +49,7 @@ int main(){
         //     cout<<endl;
         // }  
 
-        for(int i = 0 ; i < input ; i ++){
+        for(int i = 0 ; i < input ; i++){
 
                 for (int j = decrement ; j > LOW_VAL; j--){
                     cout<<"* ";

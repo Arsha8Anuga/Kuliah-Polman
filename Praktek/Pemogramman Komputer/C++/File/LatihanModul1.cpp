@@ -13,9 +13,6 @@ void constrChap(int maxLooping);
 
 class LatFunctions {
     public :
-        int hitungBagiBensin(int x, int y){
-            return x/y;
-        }
         void lat1(){
             int A,B,T;
 
@@ -1515,7 +1512,6 @@ void endStatement(){
 
     char toupperInpt = toupper(static_cast<unsigned char>(answerInpt));
 
-        
     if(toupperInpt == 'Y'){
         introduction();
     }else if(toupperInpt == 'N') {
