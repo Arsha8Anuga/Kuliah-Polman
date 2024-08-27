@@ -2,6 +2,7 @@
 #include <string>
 #include <cstdio>
 #include <iomanip>
+#include <cmath>
 
 using namespace std;
 
@@ -1294,6 +1295,464 @@ class LatFunctions {
 
             endStatement();  
         }
+        // the end of week 1, chapter 1-4
+
+        void lat69(){
+            int a[5];
+            for (int i = 0; i <= 4; i++) {
+                cout << i << " - " << &a[i] << endl;
+            }
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();  
+        }
+        void lat70(){
+            char a[5];
+            for (int i = 0; i <= 4; i++) {
+                cout << i << " - " << static_cast<void*>(&a[i]) << endl;
+            }
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();  
+        }
+        void lat71(){
+            int a[5] = {5};
+            for (int i = 0; i <= 4; i++) {
+                cout << setw(2) << a[i];
+            }
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();  
+        }
+        void lat72(){
+            int a[5] = {2, 5};
+            for (int i = 0; i <= 4; i++) {
+                cout << setw(2) << a[i];
+            }
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();  
+        }
+        void lat73(){
+            char a[6] = "ABCDE";
+            for (int i = 0; i <= 4; i++) {
+                cout << setw(2) << static_cast<int>(a[i]) << " ";
+            }
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();  
+        }
+        void lat74(){
+            char a[6] = "abcde";
+            for (int i = 0; i <= 4; i++) {
+                cout << setw(2) << static_cast<int>(a[i]) << " ";
+            }
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();  
+        }
+        void lat75(){
+             int a[10];
+            int n;
+            for (int i = 0; i <= 9; i++) {
+                n = pow(2, i);
+                a[i] = n;
+                
+                cout << a[i] << " ";
+            }
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();  
+        }
+        void lat76(){
+            int a[10]; 
+            int x, i, j;
+         
+            cout << "Masukkan jumlah perulangan = "; 
+            cin >> x; 
+        
+            for (i = 0; i < x; i++) { 
+                cout << "Masukkan nilai ke " << i << " = "; 
+                cin >> a[i]; 
+            } 
+            for (j = 0; j < x; j++) { 
+                cout << "Nilai ke - " << j << " = " << a[j] << std::endl; 
+            } 
+
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();  
+        }
+        void lat77(){
+            int a[10] = {11, 12, 13, 14, 15, 16, 17, 18, 19, 20};
+            int n, i;
+            int jum = 0;
+        
+            cout << "Masukkan Nilai yang dicari = "; 
+            cin >> n; 
+        
+            i = 0;
+            while (i < 10) {
+                if (a[i] == n) { 
+                    jum = 1; 
+                    break;
+                } 
+                i++;
+            } 
+        
+            if (jum > 0) {
+                cout << "ADA" << std::endl;
+            } else {
+                cout << "TIDAK ADA" << std::endl;
+            } 
+        
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();  
+        }
+        void lat78(){
+            int a[10] = {22, 32, 5, 17, 21, 26, 29, 55, 19, 20};
+            int i;
+
+            i = 0;
+            while (i < 9) {
+                if (a[i] > a[i + 1]) {
+                    int temp = a[i + 1];
+                    a[i + 1] = a[i];
+                    a[i] = temp;
+                }
+                cout << a[i] << " ";
+                i++;
+            }
+            cout << a[9] << endl;
+
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();  
+        }
+        void lat79(){
+            int a[10] = {22, 32, 5, 17, 21, 26, 29, 55, 19, 20};
+            int i, j, k, x;
+            int n = 10;
+
+            for (i = 0; i < n - 1; i++) {
+                for (j = 0; j < n - 1 - i; j++) {
+                    if (a[j] > a[j + 1]) {
+                        x = a[j];
+                        a[j] = a[j + 1];
+                        a[j + 1] = x;
+                    }
+                }
+            }
+
+            for (k = 0; k < n; k++) {
+                cout << a[k] << " ";
+            }
+
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();  
+        }
+        void lat80(){
+            int a[10];
+            int x, i, j, n, m;
+        
+            
+            cout << "Masukkan jumlah nilai = "; 
+            cin >> x; 
+        
+            for (i = 0; i < x; i++) { 
+                cout << "Masukkan nilai ke " << i << " = "; 
+                cin >> a[i]; 
+            } 
+        
+            
+            for (j = 0; j < x; j++) { 
+                std::cout << "Nilai ke - " << j << " = " << a[j] << std::endl; 
+            } 
+        
+          
+            for (n = 0; n <= 2; n++) { 
+                for (m = 0; m < x; m++) { 
+                    cout <<setw(2) << a[m]; 
+                } 
+                cout <<endl; 
+            }
+        
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement(); 
+        }
+        void lat81(){
+            int a[10];
+            int x, i, j;
+        
+            cout << "Masukkan jumlah perulangan (batas 10)= "; 
+            cin >> x; 
+        
+            for (i = 0; i < x; i++) { 
+                cout << "Masukkan nilai ke " << i << " = "; 
+                cin >> a[i]; 
+            } 
+        
+            
+            for (j = 0; j < x; j++) { 
+                if (a[j] % 2 == 0) { 
+                    cout << a[j] << " "; 
+                } else { 
+                    cout << "* "; 
+                }  
+            }
+        
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement(); 
+        }
+        void lat82(){
+            char a[3][5] = {
+                {'A', 'B', 'C', 'D', 'E'},
+                {'F', 'G', 'H', 'I', 'J'},
+                {'K', 'L', 'M', 'N', 'O'}
+            };
+
+            int i, j;
+
+            i = 0;
+            while (i <= 2) {
+                j = 0;
+                while (j <= 4) {
+                    std::cout << std::setw(3) << a[i][j];
+                    j++;
+                }
+                std::cout << std::endl;
+                i++;
+            }
+
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();
+        }
+        void lat83(){
+            char a[3][5] = {
+                {'A', 'B', 'C', 'D', 'E'},
+                {'F', 'G', 'H', 'I', 'J'},
+                {'K', 'L', 'M', 'N', 'O'}
+            };
+        
+            int i, j;
+            j = 0;
+            while (j <= 4) {
+                i = 0;
+                while (i <= 2) {
+                    cout << std::setw(3) << a[i][j];
+                    i++;
+                }
+                cout << std::endl;
+                j++;
+            }
+
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();
+        }
+        void lat84(){
+            int a[3][5] = {
+                {12, 15, 16, 17, 20},
+                {1, 2, 3, 4, 5},
+                {11, 15, 16, 21, 22}
+            };
+            int tot = 0;
+            int i, j;
+
+            i = 0;
+            while (i <= 2) {
+                j = 0;
+                while (j <= 4) {
+                    tot += a[i][j];
+                    j++;
+                }
+                i++;
+            }
+            
+            cout << tot << endl;
+
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();
+        }
+        void lat85(){
+            int a[3][5] = {
+                {12, 15, 16, 17, 20},
+                {1, 2, 3, 4, 5},
+                {11, 15, 16, 21, 22}
+            };
+            int max = a[0][0]; 
+            int i, j;
+
+            i = 0;
+            while (i <= 2) {
+                j = 0;
+                while (j <= 4) {
+                    if (a[i][j] > max) {
+                        max = a[i][j];
+                    }
+                    j++;
+                }
+                i++;
+            }
+
+            cout << max << endl;
+
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();
+        }
+        void lat86(){
+            int a[10] = {22, 32, 5, 17, 21, 26, 29, 55, 19, 20};
+            int i, j, n;
+            
+            i = 0;
+            n = 0;
+            
+            while (i < 4) {
+                j = 0;
+                while (j < i+1) {
+                    cout << setw(3) << a[n] << " ";
+                    n++;
+                    j++;
+                }
+                cout << endl;
+                i++;
+            }
+            
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();
+        }
+        void lat87(){
+            int a[15];
+            int i, jum, x;
+            int sizeArr = sizeof(a)/sizeof(a[0]);
+
+            for(int j = 0; j < sizeArr; j++){
+                cout<< "Masukan nilai ke - "<< j+1 << " : ";
+                cin>>a[j];
+            }
+
+            jum = 0;
+            cout << "Masukkan nilai yang dicari = ";
+            cin >> x;
+
+            for (i = 0; i < 15; i++) {
+                if (a[i] == x) {
+                    jum++;
+                }
+            }
+
+            cout << "Nilai " << x << ", ada " << jum << " buah" << endl;
+
+            cout<<endl<<endl;
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();
+        }
+        void lat88(){
+
+           int nilai[3][3];
+
+           int praktek = 3;
+           int b_mhs = 3;
+
+           int rowSize = sizeof(nilai)/sizeof(nilai[0]);
+           int columnSize = sizeof(nilai[0])/sizeof(nilai[0][0]);
+
+           for(int i = 0 ; i < rowSize; i++){
+            for(int j = 0; j < columnSize; j++){
+                cout<<"Masukan nilai Mahasiswa ke - " << i+1 << " Praktek ke - "<< j+1<< " : ";
+                cin>>nilai[i][j];
+                cout<<endl;
+            }
+           }
+
+           cout<< "Mahasiswa \t";
+
+           for(int i = 0; i < praktek ; i++){
+                cout<< "Praktek " << i + 1 << "\t";
+           }
+
+           cout<<endl;
+
+           for(int i = 0; i < b_mhs; i++){
+                cout<<"    "<< i + 1 << "\t";
+                for(int j = 0; j < praktek; j++){
+                    cout<<"\t  "<< nilai[i][j] << "\t";
+                }
+                cout<< endl;
+           }
+
+
+            cin.get();
+            system("pause"); 
+
+            endStatement();
+        }
+
 
 };
 
@@ -1372,7 +1831,28 @@ void introduction(){
                          "Program output Kotak dengan angka",
                          "Program segitiga terbalik",
                          "Program segitiga huruf",
-                         "Program segitiga mirror"};
+                         "Program segitiga mirror",
+                         "Melihat Alamat Memory Array 1",
+                         "Melihat Alamat Memory Array 2",
+                         "Array 1 Dimensi 1",
+                         "Array 1 Dimensi 2",
+                         "Array 1 Dimensi 3",
+                         "Array 1 Dimensi 4",
+                         "Array 1 Dimensi 5",
+                         "Array 1 Dimensi 6",
+                         "Mencari Nilai Maksimum",
+                         "Sorting 1",
+                         "Sorting 2",
+                         "Array 1 Dimensi 7",
+                         "Array 1 Dimensi 8",
+                         "Array 2 Dimensi 1",
+                         "Array 2 Dimensi 2",
+                         "Array 2 Dimensi 3",
+                         "Array 2 Dimensi 4",
+                         "Membuat Segitiga",
+                         "Mencari Jumlah Array Yang Sama",
+                         "Nilai Mahasiswa dan Praktek"
+                         };
 
     int modulLength = sizeof(listModul)/ sizeof(listModul[0]);
     const int MAX_AESTERISK = 60;
@@ -1396,6 +1876,10 @@ void introduction(){
                 constrChap(MAX_AESTERISK);
                 cout<<i+1<<"."<<"\t"<<listModul[i]<<endl;
             }else if(i+1 == 42){
+                cout<<endl<<endl;
+                constrChap(MAX_AESTERISK);
+                cout<<i+1<<"."<<"\t"<<listModul[i]<<endl;
+            }else if(i+1 == 69){
                 cout<<endl<<endl;
                 constrChap(MAX_AESTERISK);
                 cout<<i+1<<"."<<"\t"<<listModul[i]<<endl;
@@ -1493,6 +1977,26 @@ void introStatement(){
         case 66: objClass.lat66(); break;
         case 67: objClass.lat67(); break;
         case 68: objClass.lat68(); break;
+        case 69: objClass.lat69(); break;
+        case 70: objClass.lat70(); break;
+        case 71: objClass.lat71(); break;
+        case 72: objClass.lat72(); break;
+        case 73: objClass.lat73(); break;
+        case 74: objClass.lat74(); break;
+        case 75: objClass.lat75(); break;
+        case 76: objClass.lat76(); break;
+        case 77: objClass.lat77(); break;
+        case 78: objClass.lat78(); break;
+        case 79: objClass.lat79(); break;
+        case 80: objClass.lat80(); break;
+        case 81: objClass.lat81(); break;
+        case 82: objClass.lat82(); break;
+        case 83: objClass.lat83(); break;
+        case 84: objClass.lat84(); break;
+        case 85: objClass.lat85(); break;
+        case 86: objClass.lat86(); break;
+        case 87: objClass.lat87(); break;
+        case 88: objClass.lat88(); break;
         default: 
             cout<<"input nomor tidak valid, tolong masukan dari 1-21"<<endl<<endl;
             introStatement();
