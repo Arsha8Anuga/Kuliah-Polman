@@ -11,6 +11,14 @@ void introStatement();
 void endStatement();
 void constraint(int maxLooping);
 void constrChap(int maxLooping); 
+int factn(int angka);
+double pown(double angka,double pangkat);
+double factn(double angka);
+void pertambahan(double* angka_1, double* angka_2, double* hasil);
+void pengurangan(double* angka_1, double* angka_2, double* hasil);
+void perkalian(double* angka_1, double* angka_2, double* hasil);
+void pembagian(double* angka_1, double* angka_2, double* hasil);
+
 
 class LatFunctions {
     public :
@@ -1295,7 +1303,7 @@ class LatFunctions {
 
             endStatement();  
         }
-        // the end of week 1, chapter 1-4
+        // the end of week 1, chapter 1-3
 
         void lat69(){
             int a[5];
@@ -1753,6 +1761,182 @@ class LatFunctions {
             endStatement();
         }
 
+        void lat89(){
+
+            int n,result;
+
+            cout<<"Masukan suku ke n untuk menjadi faktorial : ";
+            cin>>n;
+
+            result = factn(n);
+
+            cout<<"hasil dari faktorisasi "<<n<<"! = ";
+            for(int i = 0 ; i < n ; i++){
+                if(i + 1 != n){
+                    cout<< n - i << ".";
+                }else{
+                    cout<< n - i;
+                }
+            }
+
+            cout<< " = "<< result;
+
+            cout<<endl<<endl;
+            
+            cin.get();
+            system("pause"); 
+
+            endStatement();
+        }
+        void lat90(){
+            
+            int choice;
+            double angka_1,angka_2,result;
+
+            string menu[] = {
+                "Pangkat n",
+                "Faktorial n",
+                "Exponensial n",
+                "Keluar program"
+            };
+
+            int menuSize = sizeof(menu)/sizeof(menu[0]);
+            
+            constraint(40);
+
+            for(int i = 0; i < menuSize; i++){
+                cout<<i+1<<". \t"<<menu[i]<<endl;
+            }
+
+            cout<<endl;
+            
+
+            cout<< "Pililah salah satu program yang ingin dipilih : ";
+            cin>>choice;
+
+            cout<<endl<<endl;
+
+            switch(choice){
+                case 1 : 
+                case 3 :
+                    cout<<"Masukan nilai Konstanta : ";
+                    cin>>angka_1;
+
+                    cout<<"Masukan nilai pangkat : ";
+                    cin>>angka_2;
+
+                    cout<<"Hasil dari "<<angka_1<<"^"<<angka_2<<" = "<<pown(angka_1,angka_2);
+
+                    cout<<endl;
+                break;
+                case 2 :
+                    cout<<"Masukan nilai Faktorial : ";
+                    cin>>angka_1;
+
+                    result = factn(angka_1);
+
+                    cout<<"hasil dari faktorisasi "<<angka_1<<"! = ";
+                    for(int i = 0 ; i < angka_1 ; i++){
+                        if(i + 1 != angka_1){
+                            cout<< angka_1 - i << ".";
+                        }else{
+                            cout<< angka_1 - i;
+                        }
+                    }
+
+                    cout<< " = "<< result;
+
+                    cout<<endl;
+                break;
+                case 4 :
+                    endStatement();
+                break;
+                default:
+                    cout<<"Invalid option, try again";
+                    lat90();
+                break;
+            }
+
+            cout<<endl<<endl;
+            
+            cin.get();
+            system("pause"); 
+
+            endStatement();   
+
+        }
+ 
+        void lat91(){
+            
+            int choice;
+            double nilai_1, nilai_2, hasil, *pNilai_1 = &nilai_1, *pNilai_2 = &nilai_2;
+            string menu[] = {
+                "Pertambahan",
+                "Pengurangan",
+                "Perkalian",
+                "Pembagian",
+                "Keluar program"
+            };
+
+            int menuSize = sizeof(menu)/sizeof(menu[0]);
+
+            while (true){
+                constraint(60);
+
+                for(int i = 0 ; i < menuSize; i++){
+                    cout<<i+1<<". \t"<<menu[i]<<endl;
+                }
+                cout<<endl;
+
+                constraint(60);
+
+                cout<<"pilih aritmatika yang ingin dilakukan : ";
+                cin>> choice;
+                cout<<endl;
+                    if(choice == 5){
+                        cout<<endl<<endl; endStatement();
+                    }
+
+                    if (choice < 1 || choice > 5) {
+                        cout << "Invalid option, try again" << endl;
+                        continue; 
+                    }
+
+                    cout<< "Masukan nilai ke - 1 : ";
+                    cin>>*pNilai_1;
+
+                    cout<< "Masukan nilai ke - 2 : ";
+                    cin>>*pNilai_2;
+
+
+                    if(choice == 4 && *pNilai_2 == 0 ){
+                        cout<<"Tidak bisa membagi dengan 0, silahkan ulangi kembali"<<endl;
+                        continue;
+                    }else{
+                        switch(choice){
+                            case 1: pertambahan(pNilai_1,pNilai_2,&hasil); break;
+                            case 2: pengurangan(pNilai_1,pNilai_2,&hasil); break;
+                            case 3: perkalian(pNilai_1,pNilai_2,&hasil); break;
+                            case 4: pembagian(pNilai_1,pNilai_2,&hasil); break;     
+                        }
+                    }
+
+
+
+                
+
+                cout<< "Hasilnya adalah = "<<hasil<<endl;
+
+
+            cout<<endl<<endl;
+            
+            cin.get();
+            system("pause"); 
+
+            endStatement(); 
+
+            }
+        }
 
 };
 
@@ -1851,7 +2035,8 @@ void introduction(){
                          "Array 2 Dimensi 4",
                          "Membuat Segitiga",
                          "Mencari Jumlah Array Yang Sama",
-                         "Nilai Mahasiswa dan Praktek"
+                         "Nilai Mahasiswa dan Praktek",
+                         "test"
                          };
 
     int modulLength = sizeof(listModul)/ sizeof(listModul[0]);
@@ -1997,6 +2182,7 @@ void introStatement(){
         case 86: objClass.lat86(); break;
         case 87: objClass.lat87(); break;
         case 88: objClass.lat88(); break;
+        case 89: objClass.lat90(); break;
         default: 
             cout<<"input nomor tidak valid, tolong masukan dari 1-21"<<endl<<endl;
             introStatement();
@@ -2051,4 +2237,42 @@ void constrChap(int maxLooping){
             cout<<"*"<<endl<<endl;
         }
     }
+}
+
+int factn (int angka){
+    if(angka == 0){
+        return 1;
+    }
+    return angka * factn(angka-1);
+}
+
+double factn (double angka){
+    if(angka == 0){
+        return 1;
+    }
+    return angka * factn(angka-1);
+}
+
+double pown (double angka,double pangkat){
+    if (pangkat == 0) {
+        return 1; 
+    } else if (pangkat < 0) {
+        return 1.0 / pown(angka, -pangkat);
+    } else {
+
+        return angka * pown(angka, pangkat - 1);
+    }
+}
+
+void pertambahan(double* angka_1, double* angka_2, double* hasil){
+    *hasil = (*angka_1 + *angka_2);
+}
+void pengurangan(double* angka_1, double* angka_2, double* hasil){
+    *hasil = (*angka_1 - *angka_2);
+}
+void pembagian(double* angka_1, double* angka_2, double* hasil){
+    *hasil = (*angka_1 / *angka_2);
+}
+void perkalian(double* angka_1, double* angka_2, double* hasil){
+    *hasil = (*angka_1 * *angka_2);
 }
