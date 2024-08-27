@@ -13,7 +13,6 @@ void pembagian(double bilPer, double bilKed);
 void moduls(double bilPer, double bilKed);
 
 int main(){
-
     kalkulator();
     return 0;
 }
