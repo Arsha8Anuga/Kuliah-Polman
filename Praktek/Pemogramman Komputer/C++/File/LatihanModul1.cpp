@@ -2036,7 +2036,9 @@ void introduction(){
                          "Membuat Segitiga",
                          "Mencari Jumlah Array Yang Sama",
                          "Nilai Mahasiswa dan Praktek",
-                         "test"
+                         "Operasi faktorial n!",
+                         "Program menu eksponensial faktorisasi",
+                         "Kalkulator sederhana"
                          };
 
     int modulLength = sizeof(listModul)/ sizeof(listModul[0]);
@@ -2182,9 +2184,11 @@ void introStatement(){
         case 86: objClass.lat86(); break;
         case 87: objClass.lat87(); break;
         case 88: objClass.lat88(); break;
-        case 89: objClass.lat90(); break;
+        case 89: objClass.lat89(); break;
+        case 90: objClass.lat90(); break;
+        case 91: objClass.lat91(); break;
         default: 
-            cout<<"input nomor tidak valid, tolong masukan dari 1-21"<<endl<<endl;
+            cout<<"input nomor tidak valid, tolong masukan dari 1-90"<<endl<<endl;
             introStatement();
         break;
     }
