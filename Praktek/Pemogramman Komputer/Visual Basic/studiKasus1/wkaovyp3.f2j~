@@ -1,0 +1,163 @@
+﻿Public Class studiKasus1Kalkulator
+
+    Dim stackStrNum As New Stack(Of Double)()
+    Dim stackStrOpr As New Stack(Of String)()
+    Dim sb As New System.Text.StringBuilder()
+    Dim strTempVal As String = ""
+
+    Private Sub studiKasus1Kalkulator_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        ' Initialize any required settings here
+    End Sub
+
+    ' Number button click events
+    Private Sub btn_Click(sender As Object, e As EventArgs) Handles btn0.Click, btn1.Click, btn2.Click, btn3.Click, btn4.Click, btn5.Click, btn6.Click, btn7.Click, btn8.Click, btn9.Click
+        Dim button As Button = CType(sender, Button)
+        sb.Append(button.Text)
+        strNumAppend()
+    End Sub
+
+    ' Operator button click events
+    Private Sub addition_Click(sender As Object, e As EventArgs) Handles addition.Click
+        sbOperator("+")
+    End Sub
+
+    Private Sub subtraction_Click(sender As Object, e As EventArgs) Handles substraction.Click
+        sbOperator("-")
+    End Sub
+
+    Private Sub multiplication_Click(sender As Object, e As EventArgs) Handles multiplier.Click
+        sbOperator("*")
+    End Sub
+
+    Private Sub division_Click(sender As Object, e As EventArgs) Handles divisor.Click
+        sbOperator("/")
+    End Sub
+
+    Private Sub modulus_Click(sender As Object, e As EventArgs) Handles modulus.Click
+        sbOperator("%")
+    End Sub
+
+    Private Sub exponent_Click(sender As Object, e As EventArgs) Handles exponent.Click
+        sbOperator("^")
+    End Sub
+
+    Private Sub squareRoot_Click(sender As Object, e As EventArgs) Handles radical.Click
+        sbOperator("√")
+    End Sub
+
+    Private Sub absolute_Click(sender As Object, e As EventArgs) Handles absVal.Click
+        sbOperator("|")
+    End Sub
+
+    Private Sub sbOperator(op As String)
+        If sb.Length > 0 Then
+            stackStrNum.Push(Double.Parse(sb.ToString()))
+            sb.Clear()
+        End If
+        While stackStrOpr.Count > 0 AndAlso OperatorPrecedence(op) <= OperatorPrecedence(stackStrOpr.Peek())
+            ComputeOperation()
+        End While
+        stackStrOpr.Push(op)
+        strNumAppend()
+    End Sub
+
+    Private Sub ComputeOperation()
+        Dim op As String = stackStrOpr.Pop()
+        Dim num2 As Double = stackStrNum.Pop()
+        Dim num1 As Double = If(stackStrNum.Count > 0, stackStrNum.Pop(), 0)
+
+        Select Case op
+            Case "+"
+                stackStrNum.Push(num1 + num2)
+            Case "-"
+                stackStrNum.Push(num1 - num2)
+            Case "*"
+                stackStrNum.Push(num1 * num2)
+            Case "/"
+                If num2 <> 0 Then
+                    stackStrNum.Push(num1 / num2)
+                Else
+                    MessageBox.Show("Cannot divide by zero")
+                End If
+            Case "%"
+                stackStrNum.Push(num1 Mod num2)
+            Case "^"
+                stackStrNum.Push(Math.Pow(num1, num2))
+            Case "√"
+                stackStrNum.Push(Math.Sqrt(num2))
+            Case "|"
+                stackStrNum.Push(Math.Abs(num2))
+        End Select
+    End Sub
+
+    Private Function OperatorPrecedence(op As String) As Integer
+        Select Case op
+            Case "+", "-"
+                Return 1
+            Case "*", "/", "%"
+                Return 2
+            Case "^"
+                Return 3
+            Case "√", "|"
+                Return 4
+            Case Else
+                Return 0
+        End Select
+    End Function
+
+    Private Sub sbBackspace()
+        If sb.Length > 0 Then
+            sb.Length -= 1
+            If sb.Length > 0 AndAlso sb(0).ToString = "-" AndAlso sb.Length = 1 Then
+                sb.Length -= 1
+            End If
+            strNumAppend()
+        ElseIf stackStrNum.Count > 0 Then
+            sb.Clear()
+            sb.Append(stackStrNum.Pop().ToString())
+            strNumAppend()
+            If (sb.ToString() = "0") Then
+                sb.Remove(0, 1)
+            End If
+        End If
+    End Sub
+
+    Private Sub backspaceBtn_Click(sender As Object, e As EventArgs) Handles backspaceBtn.Click
+        sbBackspace()
+    End Sub
+
+    Private Sub plusMinusBtn_Click(sender As Object, e As EventArgs) Handles plusMinusBtn.Click
+        If sb.Length > 0 AndAlso sb(0) <> "-"c Then
+            sb.Insert(0, "-")
+        ElseIf sb.Length > 0 Then
+            sb.Remove(0, 1)
+        End If
+        strNumAppend()
+    End Sub
+
+    Private Sub calculate_Click(sender As Object, e As EventArgs) Handles equations.Click
+        If sb.Length > 0 Then
+            stackStrNum.Push(Double.Parse(sb.ToString()))
+        End If
+
+        ' Evaluate remaining expression
+        While stackStrOpr.Count > 0
+            ComputeOperation()
+        End While
+
+        Dim result As Double = stackStrNum.Pop()
+        TextBox1.Text = result.ToString()
+        stackStrNum.Clear()
+        stackStrOpr.Clear()
+        sb.Clear()
+    End Sub
+
+    Private Sub strNumAppend()
+        strTempVal = sb.ToString()
+        If sb.Length = 0 Then
+            strTempVal = "0"
+        End If
+        TextBox1.Text = strTempVal
+    End Sub
+
+End Class

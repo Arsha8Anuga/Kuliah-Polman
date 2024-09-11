@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1kalkulator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1kalkulator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasusmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasusmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1kalkulator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1kalkulator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1kalkulator.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1kalkulator.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasusmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasusmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasusmenu.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasusmenu.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studiKasus1Kalkulator.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb",
+              "RelativeDocumentMoniker": "studiKasus1Kalkulator.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb*",
+              "RelativeToolTip": "studiKasus1Kalkulator.vb*",
+              "ViewState": "AgIAALEAAAAAAAAAAAAswAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T01:59:38.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "studiKasus1Kalkulator.Designer.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.Designer.vb",
+              "RelativeDocumentMoniker": "studiKasus1Kalkulator.Designer.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.Designer.vb",
+              "RelativeToolTip": "studiKasus1Kalkulator.Designer.vb",
+              "ViewState": "AgIAAGUBAAAAAAAAAAApwGUBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T01:37:53.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T01:13:23.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "studiKasusMenu.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.vb",
+              "RelativeDocumentMoniker": "studiKasusMenu.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.vb",
+              "RelativeToolTip": "studiKasusMenu.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T01:08:34.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "studiKasus1Kalkulator.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb",
+              "RelativeDocumentMoniker": "studiKasus1Kalkulator.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb [Design]*",
+              "RelativeToolTip": "studiKasus1Kalkulator.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T01:04:49.86Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studiKasus1.vbproj",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1.vbproj",
+              "RelativeDocumentMoniker": "studiKasus1.vbproj",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1.vbproj",
+              "RelativeToolTip": "studiKasus1.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-09-11T00:43:30.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "studiKasusMenu.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.vb",
+              "RelativeDocumentMoniker": "studiKasusMenu.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.vb [Design]",
+              "RelativeToolTip": "studiKasusMenu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T00:43:26.429Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "studiKasusMenu.Designer.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.Designer.vb",
+              "RelativeDocumentMoniker": "studiKasusMenu.Designer.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.Designer.vb",
+              "RelativeToolTip": "studiKasusMenu.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-11T00:43:14.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
