@@ -17,3 +17,6 @@ E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKas
 E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.pdb
 E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.genruntimeconfig.cache
 E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\ref\studiKasus1.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.studiKasus1BangunDatar1.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.studiKasus1BangunDatar2.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.studiKasus1BangunDatarTemplate.resources

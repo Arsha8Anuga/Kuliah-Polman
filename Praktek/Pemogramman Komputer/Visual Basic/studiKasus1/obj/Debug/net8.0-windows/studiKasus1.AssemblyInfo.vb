@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("studiKasus1"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73f56bc7aef83a367bc3b5f4961bb256d239c9dc"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57ad1fd49f7582da8af4c691b81a0b56234b8fd1"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("studiKasus1"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("studiKasus1"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
