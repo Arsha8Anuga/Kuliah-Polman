@@ -23,7 +23,7 @@ Partial Class studiKasus1Kalkulator
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         TextBox1 = New TextBox()
-        absVal = New Button()
+        backOpt = New Button()
         quadratic = New Button()
         clearBtn = New Button()
         backspaceBtn = New Button()
@@ -60,15 +60,15 @@ Partial Class studiKasus1Kalkulator
         TextBox1.Size = New Size(377, 61)
         TextBox1.TabIndex = 0
         ' 
-        ' absVal
+        ' backOpt
         ' 
-        absVal.Font = New Font("Adobe Fan Heiti Std B", 14.25F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        absVal.Location = New Point(12, 137)
-        absVal.Name = "absVal"
-        absVal.Size = New Size(83, 62)
-        absVal.TabIndex = 1
-        absVal.Text = "|x|"
-        absVal.UseVisualStyleBackColor = True
+        backOpt.Font = New Font("Adobe Fan Heiti Std B", 14.25F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        backOpt.Location = New Point(12, 137)
+        backOpt.Name = "backOpt"
+        backOpt.Size = New Size(83, 62)
+        backOpt.TabIndex = 1
+        backOpt.Text = "Back"
+        backOpt.UseVisualStyleBackColor = True
         ' 
         ' quadratic
         ' 
@@ -318,7 +318,7 @@ Partial Class studiKasus1Kalkulator
         ' 
         ' studiKasus1Kalkulator
         ' 
-        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(401, 601)
         Controls.Add(prevNum)
@@ -346,7 +346,7 @@ Partial Class studiKasus1Kalkulator
         Controls.Add(backspaceBtn)
         Controls.Add(clearBtn)
         Controls.Add(quadratic)
-        Controls.Add(absVal)
+        Controls.Add(backOpt)
         Controls.Add(TextBox1)
         FormBorderStyle = FormBorderStyle.FixedSingle
         Name = "studiKasus1Kalkulator"
@@ -356,7 +356,7 @@ Partial Class studiKasus1Kalkulator
     End Sub
 
     Friend WithEvents TextBox1 As TextBox
-    Friend WithEvents absVal As Button
+    Friend WithEvents backOpt As Button
     Friend WithEvents quadratic As Button
     Friend WithEvents clearBtn As Button
     Friend WithEvents backspaceBtn As Button

@@ -26,7 +26,7 @@ Partial Class studiKasusMenu
         kalkulator = New Button()
         bangunDatar1 = New Button()
         bangunDatar2 = New Button()
-        ExitBtn = New Button()
+        games = New Button()
         SuspendLayout()
         ' 
         ' loginPageForm
@@ -65,21 +65,21 @@ Partial Class studiKasusMenu
         bangunDatar2.Text = "Hitung Bangun Datar 2"
         bangunDatar2.UseVisualStyleBackColor = True
         ' 
-        ' ExitBtn
+        ' games
         ' 
-        ExitBtn.Location = New Point(520, 356)
-        ExitBtn.Name = "ExitBtn"
-        ExitBtn.Size = New Size(101, 36)
-        ExitBtn.TabIndex = 5
-        ExitBtn.Text = "Exit"
-        ExitBtn.UseVisualStyleBackColor = True
+        games.Location = New Point(225, 434)
+        games.Name = "games"
+        games.Size = New Size(198, 48)
+        games.TabIndex = 6
+        games.Text = "Games Tebak"
+        games.UseVisualStyleBackColor = True
         ' 
         ' studiKasusMenu
         ' 
-        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(666, 450)
-        Controls.Add(ExitBtn)
+        ClientSize = New Size(666, 536)
+        Controls.Add(games)
         Controls.Add(bangunDatar2)
         Controls.Add(bangunDatar1)
         Controls.Add(kalkulator)
@@ -92,7 +92,7 @@ Partial Class studiKasusMenu
     Friend WithEvents kalkulator As Button
     Friend WithEvents Button2 As Button
     Friend WithEvents bangunDatar2 As Button
-    Friend WithEvents ExitBtn As Button
     Public WithEvents bangunDatar1 As Button
+    Friend WithEvents games As Button
 
 End Class

@@ -1,8 +1,8 @@
 ﻿Public Class studiKasus1BangunDatar2
 
 
-    Private Sub studiKasus1BangunDatar1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
+    Private Sub studiKasus1BangunDatar2_Closed(sender As Object, e As EventArgs) Handles MyBase.Closed
+        Application.Exit()
     End Sub
 
     Private Sub bsBtn_Click(sender As Object, e As EventArgs) Handles bsBtn.Click

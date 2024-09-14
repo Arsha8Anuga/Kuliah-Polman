@@ -7,11 +7,11 @@
     Dim calcResCount As Integer
     Dim endPosition As New Point()
 
-    Private Sub studiKasus1BangunDatar1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
+    Private Sub studiKasus1BangunDatar1_Closed(sender As Object, e As EventArgs) Handles MyBase.Closed
+        Application.Exit()
     End Sub
 
-    Private Sub bsBtn_Click(sender As Object, e As EventArgs)
+    Private Sub bsBtn_Click(sender As Object, e As EventArgs) Handles bsBtn.Click
         ClearControls()
         acronym = "bujur sangkar"
         containerEquation.Text = acronym
@@ -20,7 +20,7 @@
         createCalcBtn(endPosition.Y, " = ", "bs")
     End Sub
 
-    Private Sub ppBtn_Click(sender As Object, e As EventArgs)
+    Private Sub ppBtn_Click(sender As Object, e As EventArgs) Handles ppBtn.Click
         ClearControls()
         acronym = "persegi panjang"
         containerEquation.Text = acronym
@@ -29,7 +29,7 @@
         createCalcBtn(endPosition.Y, " = ", "pp")
     End Sub
 
-    Private Sub bkBtn_Click(sender As Object, e As EventArgs)
+    Private Sub bkBtn_Click(sender As Object, e As EventArgs) Handles bkBtn.Click
         ClearControls()
         acronym = "belah ketupat"
         containerEquation.Text = acronym
@@ -38,7 +38,7 @@
         createCalcBtn(endPosition.Y, " = ", "bk")
     End Sub
 
-    Private Sub jgBtn_Click(sender As Object, e As EventArgs)
+    Private Sub jgBtn_Click(sender As Object, e As EventArgs) Handles jgBtn.Click
         ClearControls()
         acronym = "jajar genjang"
         containerEquation.Text = acronym
@@ -47,7 +47,7 @@
         createCalcBtn(endPosition.Y, " = ", "jg")
     End Sub
 
-    Private Sub tBtn_Click(sender As Object, e As EventArgs)
+    Private Sub tBtn_Click(sender As Object, e As EventArgs) Handles tBtn.Click
         ClearControls()
         acronym = "trapesium"
         containerEquation.Text = acronym
@@ -56,7 +56,7 @@
         createCalcBtn(endPosition.Y, " = ", "t")
     End Sub
 
-    Private Sub llBtn_Click(sender As Object, e As EventArgs)
+    Private Sub llBtn_Click(sender As Object, e As EventArgs) Handles llBtn.Click
         ClearControls()
         acronym = "layang-layang"
         containerEquation.Text = acronym
@@ -65,7 +65,7 @@
         createCalcBtn(endPosition.Y, " = ", "ll")
     End Sub
 
-    Private Sub sBtn_Click(sender As Object, e As EventArgs)
+    Private Sub sBtn_Click(sender As Object, e As EventArgs) Handles sBtn.Click
         ClearControls()
         acronym = "segitiga"
         containerEquation.Text = acronym
@@ -74,7 +74,7 @@
         createCalcBtn(endPosition.Y, " = ", "s")
     End Sub
 
-    Private Sub lBtn_Click(sender As Object, e As EventArgs)
+    Private Sub lBtn_Click(sender As Object, e As EventArgs) Handles lBtn.Click
         ClearControls()
         acronym = "lingkaran"
         containerEquation.Text = acronym
@@ -275,5 +275,6 @@
         Next
 
     End Sub
+
 
 End Class

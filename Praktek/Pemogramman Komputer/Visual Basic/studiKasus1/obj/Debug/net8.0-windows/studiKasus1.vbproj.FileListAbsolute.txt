@@ -20,3 +20,8 @@ E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKas
 E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.studiKasus1BangunDatar1.resources
 E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.studiKasus1BangunDatar2.resources
 E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.studiKasus1BangunDatarTemplate.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.studikasus1TebakHuruf.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.studiKasus1Login.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.studiKasus1Register.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.studiKasus1RegisterDetail.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Visual Basic\studiKasus1\obj\Debug\net8.0-windows\studiKasus1.Form1.resources

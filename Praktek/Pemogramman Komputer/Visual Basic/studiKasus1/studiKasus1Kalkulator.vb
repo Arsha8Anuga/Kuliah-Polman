@@ -300,5 +300,11 @@
         Return False
     End Function
 
+    Private Sub backOpt_Click(sender As Object, e As EventArgs) Handles backOpt.Click
+        Dim back As New studiKasusMenu()
 
+        back.Show()
+
+        Me.Close()
+    End Sub
 End Class

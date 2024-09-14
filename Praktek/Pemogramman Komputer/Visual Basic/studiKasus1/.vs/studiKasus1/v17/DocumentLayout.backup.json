@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatartemplate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatartemplate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatartemplate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatartemplate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatartemplate.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatartemplate.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatar2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatar2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatar2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatar2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatar1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatar1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -31,48 +11,88 @@
       "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatar1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatar2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatar2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatar2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatar2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatar1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatar1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatar2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatar2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1kalkulator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1kalkulator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasusmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasusmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1kalkulator.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1kalkulator.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1tebakhuruf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1tebakhuruf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1kalkulator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1kalkulator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasusmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasusmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1tebakhuruf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1tebakhuruf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasusmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasusmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasusmenu.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasusmenu.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1registerdetail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1registerdetail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatartemplate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatartemplate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1registerdetail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1registerdetail.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\visual basic\\studikasus1\\studikasus1bangundatartemplate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9A40D8B-BFD4-42DD-8A7B-AC473AAD0CEE}|studiKasus1.vbproj|solutionrelative:studikasus1bangundatartemplate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,154 +118,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "studiKasus1",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1.vbproj",
-              "RelativeDocumentMoniker": "studiKasus1.vbproj",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1.vbproj",
-              "RelativeToolTip": "studiKasus1.vbproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
-              "WhenOpened": "2024-09-13T10:11:27.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "studiKasus1BangunDatarTemplate.vb",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatarTemplate.vb",
-              "RelativeDocumentMoniker": "studiKasus1BangunDatarTemplate.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatarTemplate.vb*",
-              "RelativeToolTip": "studiKasus1BangunDatarTemplate.vb*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAApwFQAAAARAAAAAAAAAA==",
+              "Title": "studiKasus1BangunDatar1.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar1.vb",
+              "RelativeDocumentMoniker": "studiKasus1BangunDatar1.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar1.vb*",
+              "RelativeToolTip": "studiKasus1BangunDatar1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-13T09:49:00.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "studiKasus1BangunDatarTemplate.Designer.vb",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatarTemplate.Designer.vb",
-              "RelativeDocumentMoniker": "studiKasus1BangunDatarTemplate.Designer.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatarTemplate.Designer.vb*",
-              "RelativeToolTip": "studiKasus1BangunDatarTemplate.Designer.vb*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-13T09:47:46.945Z",
+              "WhenOpened": "2024-09-14T01:51:58.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "studiKasus1BangunDatarTemplate.vb [Design]",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatarTemplate.vb",
-              "RelativeDocumentMoniker": "studiKasus1BangunDatarTemplate.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatarTemplate.vb [Design]*",
-              "RelativeToolTip": "studiKasus1BangunDatarTemplate.vb [Design]*",
+              "Title": "studiKasus1BangunDatar1.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar1.vb",
+              "RelativeDocumentMoniker": "studiKasus1BangunDatar1.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar1.vb [Design]*",
+              "RelativeToolTip": "studiKasus1BangunDatar1.vb [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-13T09:46:35.229Z",
+              "WhenOpened": "2024-09-14T01:51:55.516Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "studiKasus1BangunDatar2.vb",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar2.vb",
-              "RelativeDocumentMoniker": "studiKasus1BangunDatar2.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar2.vb",
-              "RelativeToolTip": "studiKasus1BangunDatar2.vb",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAQAAAAAAAAAAAAAAA==",
+              "Title": "studiKasus1Kalkulator.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb",
+              "RelativeDocumentMoniker": "studiKasus1Kalkulator.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb",
+              "RelativeToolTip": "studiKasus1Kalkulator.vb",
+              "ViewState": "AgIAACgBAAAAAAAAAAAmwDMBAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-13T09:17:28.092Z",
+              "WhenOpened": "2024-09-14T01:50:13.303Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "studiKasus1BangunDatar2.Designer.vb",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar2.Designer.vb",
-              "RelativeDocumentMoniker": "studiKasus1BangunDatar2.Designer.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar2.Designer.vb",
-              "RelativeToolTip": "studiKasus1BangunDatar2.Designer.vb",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAowHIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-13T09:17:06.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "studiKasus1.vbproj",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1.vbproj",
-              "RelativeDocumentMoniker": "studiKasus1.vbproj",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1.vbproj",
-              "RelativeToolTip": "studiKasus1.vbproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
-              "WhenOpened": "2024-09-11T00:43:30.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "studiKasus1BangunDatar2.vb [Design]",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar2.vb",
-              "RelativeDocumentMoniker": "studiKasus1BangunDatar2.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar2.vb [Design]",
-              "RelativeToolTip": "studiKasus1BangunDatar2.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-13T09:16:59.315Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "studiKasus1BangunDatar1.vb [Design]",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar1.vb",
-              "RelativeDocumentMoniker": "studiKasus1BangunDatar1.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar1.vb [Design]",
-              "RelativeToolTip": "studiKasus1BangunDatar1.vb [Design]",
+              "Title": "studiKasus1Kalkulator.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb",
+              "RelativeDocumentMoniker": "studiKasus1Kalkulator.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb [Design]",
+              "RelativeToolTip": "studiKasus1Kalkulator.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-13T09:03:24.683Z",
+              "WhenOpened": "2024-09-14T01:49:54.324Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "studiKasus1BangunDatar1.Designer.vb",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar1.Designer.vb",
-              "RelativeDocumentMoniker": "studiKasus1BangunDatar1.Designer.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar1.Designer.vb",
-              "RelativeToolTip": "studiKasus1BangunDatar1.Designer.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-13T08:50:30.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "studiKasusMenu.vb",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.vb",
-              "RelativeDocumentMoniker": "studiKasusMenu.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.vb",
-              "RelativeToolTip": "studiKasusMenu.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-11T01:08:34.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "studiKasus1BangunDatar1.vb",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar1.vb",
-              "RelativeDocumentMoniker": "studiKasus1BangunDatar1.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar1.vb",
-              "RelativeToolTip": "studiKasus1BangunDatar1.vb",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-12T02:05:34.73Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -255,70 +174,236 @@
               "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
               "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\My Project\\Application.Designer.vb",
               "RelativeToolTip": "My Project\\Application.Designer.vb",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-11T01:13:23.006Z",
+              "WhenOpened": "2024-09-14T01:48:15.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "ApplicationEvents.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\ApplicationEvents.vb",
+              "RelativeToolTip": "ApplicationEvents.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-14T01:47:36.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "studiKasus1",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1.vbproj",
+              "RelativeDocumentMoniker": "studiKasus1.vbproj",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1.vbproj",
+              "RelativeToolTip": "studiKasus1.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-09-14T01:19:37.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "studikasus1TebakHuruf.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studikasus1TebakHuruf.vb",
+              "RelativeDocumentMoniker": "studikasus1TebakHuruf.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studikasus1TebakHuruf.vb",
+              "RelativeToolTip": "studikasus1TebakHuruf.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-14T01:45:26.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "studikasus1TebakHuruf.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studikasus1TebakHuruf.vb",
+              "RelativeDocumentMoniker": "studikasus1TebakHuruf.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studikasus1TebakHuruf.vb [Design]",
+              "RelativeToolTip": "studikasus1TebakHuruf.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-14T01:44:07.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "studiKasusMenu.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.vb",
+              "RelativeDocumentMoniker": "studiKasusMenu.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.vb",
+              "RelativeToolTip": "studiKasusMenu.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-14T01:40:24.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "studiKasus1Kalkulator.vb",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb",
-              "RelativeDocumentMoniker": "studiKasus1Kalkulator.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb",
-              "RelativeToolTip": "studiKasus1Kalkulator.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-11T01:59:38.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "studiKasus1Kalkulator.Designer.vb",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.Designer.vb",
-              "RelativeDocumentMoniker": "studiKasus1Kalkulator.Designer.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.Designer.vb",
-              "RelativeToolTip": "studiKasus1Kalkulator.Designer.vb",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAowAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-11T01:37:53.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "studiKasus1Kalkulator.vb [Design]",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb",
-              "RelativeDocumentMoniker": "studiKasus1Kalkulator.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Kalkulator.vb [Design]",
-              "RelativeToolTip": "studiKasus1Kalkulator.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-11T01:04:49.86Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "studiKasusMenu.vb [Design]",
               "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.vb",
               "RelativeDocumentMoniker": "studiKasusMenu.vb",
               "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.vb [Design]",
               "RelativeToolTip": "studiKasusMenu.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-11T00:43:26.429Z",
+              "WhenOpened": "2024-09-14T01:39:23.703Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-14T01:25:52.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-14T01:20:13.576Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "studiKasusMenu.Designer.vb",
-              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.Designer.vb",
-              "RelativeDocumentMoniker": "studiKasusMenu.Designer.vb",
-              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasusMenu.Designer.vb",
-              "RelativeToolTip": "studiKasusMenu.Designer.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "studiKasus1BangunDatarTemplate.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatarTemplate.vb",
+              "RelativeDocumentMoniker": "studiKasus1BangunDatarTemplate.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatarTemplate.vb",
+              "RelativeToolTip": "studiKasus1BangunDatarTemplate.vb",
+              "ViewState": "AgIAAGoAAAAAAAAAAAD4vxEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-11T00:43:14.877Z"
+              "WhenOpened": "2024-09-13T23:56:30.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "studiKasus1BangunDatarTemplate.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatarTemplate.vb",
+              "RelativeDocumentMoniker": "studiKasus1BangunDatarTemplate.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatarTemplate.vb [Design]",
+              "RelativeToolTip": "studiKasus1BangunDatarTemplate.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-13T23:56:28.419Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studiKasus1BangunDatar2.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar2.vb",
+              "RelativeDocumentMoniker": "studiKasus1BangunDatar2.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar2.vb*",
+              "RelativeToolTip": "studiKasus1BangunDatar2.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-13T23:56:22.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "studiKasus1BangunDatar2.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar2.vb",
+              "RelativeDocumentMoniker": "studiKasus1BangunDatar2.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1BangunDatar2.vb [Design]*",
+              "RelativeToolTip": "studiKasus1BangunDatar2.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-13T23:56:20.523Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "studiKasus1RegisterDetail.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1RegisterDetail.vb",
+              "RelativeDocumentMoniker": "studiKasus1RegisterDetail.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1RegisterDetail.vb",
+              "RelativeToolTip": "studiKasus1RegisterDetail.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-13T23:52:44.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "studiKasus1RegisterDetail.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1RegisterDetail.vb",
+              "RelativeDocumentMoniker": "studiKasus1RegisterDetail.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1RegisterDetail.vb [Design]",
+              "RelativeToolTip": "studiKasus1RegisterDetail.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-13T23:32:46.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "studiKasus1Register.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Register.vb",
+              "RelativeDocumentMoniker": "studiKasus1Register.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Register.vb",
+              "RelativeToolTip": "studiKasus1Register.vb",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-13T13:30:18.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "studiKasus1Register.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Register.vb",
+              "RelativeDocumentMoniker": "studiKasus1Register.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Register.vb [Design]",
+              "RelativeToolTip": "studiKasus1Register.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-13T13:27:51.824Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "studiKasus1Login.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Login.vb",
+              "RelativeDocumentMoniker": "studiKasus1Login.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Login.vb",
+              "RelativeToolTip": "studiKasus1Login.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-13T13:13:42.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "studiKasus1Login.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Login.vb",
+              "RelativeDocumentMoniker": "studiKasus1Login.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Visual Basic\\studiKasus1\\studiKasus1Login.vb [Design]",
+              "RelativeToolTip": "studiKasus1Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-13T12:58:45.964Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
