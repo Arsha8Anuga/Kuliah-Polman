@@ -17,8 +17,6 @@ int main(){
 
     string cariData;
 
-    cout<< sizeof(dataNegara)/sizeof(dataNegara[0]);
-
     do{
         cout<<"masukan negara : ";
         cin>>cariData;

@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Tugas Besar\\Visual Basic\\TugasBesarMasCepi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{261C45EE-6A99-4A67-835E-48054BE4394F}|TugasBesarMasCepi.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\tugas besar\\visual basic\\tugasbesarmascepi\\sql_setup\\databaseconnect.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{261C45EE-6A99-4A67-835E-48054BE4394F}|TugasBesarMasCepi.vbproj|solutionrelative:sql_setup\\databaseconnect.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261C45EE-6A99-4A67-835E-48054BE4394F}|TugasBesarMasCepi.vbproj|e:\\dev ( pemogramman )\\kuliah\\praktek\\pemogramman komputer\\tugas besar\\visual basic\\tugasbesarmascepi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{261C45EE-6A99-4A67-835E-48054BE4394F}|TugasBesarMasCepi.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseConnect.vb",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Tugas Besar\\Visual Basic\\TugasBesarMasCepi\\SQL_Setup\\DatabaseConnect.vb",
+              "RelativeDocumentMoniker": "SQL_Setup\\DatabaseConnect.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Tugas Besar\\Visual Basic\\TugasBesarMasCepi\\SQL_Setup\\DatabaseConnect.vb",
+              "RelativeToolTip": "SQL_Setup\\DatabaseConnect.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-15T23:25:20.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Tugas Besar\\Visual Basic\\TugasBesarMasCepi\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\dev ( pemogramman )\\Kuliah\\Praktek\\Pemogramman Komputer\\Tugas Besar\\Visual Basic\\TugasBesarMasCepi\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-15T23:18:47.32Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

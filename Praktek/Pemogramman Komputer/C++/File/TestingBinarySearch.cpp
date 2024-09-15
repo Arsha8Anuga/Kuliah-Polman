@@ -5,10 +5,9 @@
 
 using namespace std;
 
-int binarySearch(int* index_awal, int* index_akhir, int* index_sementara);
+int binarySearch(const string* data, int arr_size, const string& target);
 
-int main(){
-
+int main() {
     string dataNegara[] = {
         "indonesia",
         "jepang",
@@ -21,55 +20,36 @@ int main(){
     };
 
     string dataInpt = "zimbabwe";
+    
+    int arr_size = sizeof(dataNegara) / sizeof(dataNegara[0]);
 
-    int index_awal = INDEX_ARR;
-    int index_akhir = (sizeof(dataNegara)/sizeof(dataNegara[0])) - 1 ;
-    int index_tengah;
+    int index = binarySearch(dataNegara, arr_size, dataInpt);
 
-    int arr_size = sizeof(dataNegara)/sizeof(dataNegara[0]);
-
-    for(int i = 0; i < arr_size; i++){
-        int test = binarySearch(&index_awal,&index_akhir,&index_tengah);
-        if(test == 1){
-            if(dataInpt.compare(dataNegara[index_tengah]) > 0){
-                index_awal = index_tengah;
-            }else if(dataInpt.compare(dataNegara[index_tengah]) < 0){
-                index_akhir = index_tengah;
-            }
-        }else{
-            if(dataInpt.compare(dataNegara[index_tengah]) == 0){
-                cout<<"data ditemukan";
-            }else{
-                cout<<"data tidak ditemukan";
-            }
-        }
-        
+    if (index != -1) {
+        cout << "Data ditemukan pada index " << index << endl;
+    } else {
+        cout << "Data tidak ditemukan" << endl;
     }
-
 
     return 0;
 }
 
+int binarySearch(const string* data, int arr_size, const string& target) {
+    int index_awal = INDEX_ARR;
+    int index_akhir = arr_size - 1;
+    int index_sementara;
 
-int binarySearch(int* index_awal, int* index_akhir, int* index_sementara){
-      cout<<(*index_sementara)<<endl;
-    *index_sementara = (*index_awal + *index_akhir)/2;
-    if(*index_sementara != 1){
-        return 1;
-    }else{
-        return 0;
+    while (index_awal <= index_akhir) {
+        index_sementara = (index_awal + index_akhir) / 2;
+
+        if (data[index_sementara] == target) {
+            return index_sementara; 
+        } else if (data[index_sementara] < target) {
+            index_awal = index_sementara + 1; 
+        } else {
+            index_akhir = index_sementara - 1;
+        }
     }
+
+    return -1; 
 }
-
-// int binaryComparasion(string data[],string input,int* index_awal, int* index_akhir, int* index_sementara){
-//     int arr_size = sizeof(data)/sizeof(data[0]);
-//     int str_size = sizeof(data[0]);
-//     for(int i = 0 ; i < arr_size; i++){
-//         for(int j = 0; j < str_size){}
-//     }
-// }
-
-
-
-
-
