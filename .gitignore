@@ -1,2 +1,4 @@
 Kuliah/**/.vs/
-*.gitignore
+.gitignore
+.vs/
+bin/
