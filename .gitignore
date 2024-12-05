@@ -1,4 +1,4 @@
+.idea
 Kuliah/**/.vs/
 .gitignore
-.vs/
-bin/
+Kuliah/**/bin/
