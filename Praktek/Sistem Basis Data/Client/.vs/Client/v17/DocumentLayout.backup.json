@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test_Sector\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\admin form\\formadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\admin form\\formadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\user form\\notification\\sp confirm\\spconfirmation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\user form\\notification\\sp confirm\\spconfirmation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\user form\\formuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\user form\\formuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\user form\\notification\\sp confirm\\spconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\user form\\notification\\sp confirm\\spconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\libs\\http\\httprequesthandler.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:libs\\http\\httprequesthandler.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\user form\\notification\\sp confirm\\spconfirmation.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\user form\\notification\\sp confirm\\spconfirmation.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\user form\\notification\\sp confirm\\spconfirmation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\user form\\notification\\sp confirm\\spconfirmation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\user form\\notification\\sp confirm\\spconfirm.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\user form\\notification\\sp confirm\\spconfirm.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\user form\\notification\\sp confirm\\spconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\user form\\notification\\sp confirm\\spconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\login form\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\login form\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\login form\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\login form\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\admin form\\formadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\admin form\\formadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\user form\\formuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\user form\\formuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\admin form\\formadmin.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\admin form\\formadmin.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\mainapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:mainapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\mainapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:mainapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\mainapp.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:mainapp.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\helper\\userbundle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:helper\\userbundle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\user form\\formuser.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\user form\\formuser.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\pages\\login form\\loginform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:pages\\login form\\loginform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\helper\\constantmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:helper\\constantmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\client.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:client.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|d:\\test_sector\\client\\client.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDD79478-C725-408A-BCB4-EA23DED56D48}|Client.vbproj|solutionrelative:client.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Applications\\Visual Studio VB\\MSBuild\\Current\\Bin\\amd64\\Microsoft.VisualBasic.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SPConfirmation.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.vb",
+              "RelativeDocumentMoniker": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.vb",
+              "RelativeToolTip": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T13:33:56.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SPConfirmation.Designer.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.Designer.vb",
+              "RelativeDocumentMoniker": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.Designer.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.Designer.vb",
+              "RelativeToolTip": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.Designer.vb",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T13:23:10.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SPConfirm.Designer.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.Designer.vb",
+              "RelativeDocumentMoniker": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.Designer.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.Designer.vb",
+              "RelativeToolTip": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.Designer.vb",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T13:22:44.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SPConfirmation.vb [Design]",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.vb",
+              "RelativeDocumentMoniker": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.vb [Design]",
+              "RelativeToolTip": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirmation.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T13:22:36.154Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SPConfirm.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.vb",
+              "RelativeDocumentMoniker": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.vb",
+              "RelativeToolTip": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.vb",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwKMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T21:21:37.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SPConfirm.vb [Design]",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.vb",
+              "RelativeDocumentMoniker": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.vb [Design]",
+              "RelativeToolTip": "Pages\\User Form\\Notification\\SP Confirm\\SPConfirm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T21:18:55.605Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainApp.Designer.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\MainApp.Designer.vb",
+              "RelativeDocumentMoniker": "MainApp.Designer.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\MainApp.Designer.vb",
+              "RelativeToolTip": "MainApp.Designer.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T11:18:24.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\Login Form\\LoginForm.vb",
+              "RelativeDocumentMoniker": "Pages\\Login Form\\LoginForm.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\Login Form\\LoginForm.vb",
+              "RelativeToolTip": "Pages\\Login Form\\LoginForm.vb",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwEkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T01:48:46.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormAdmin.Designer.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\Admin Form\\FormAdmin.Designer.vb",
+              "RelativeDocumentMoniker": "Pages\\Admin Form\\FormAdmin.Designer.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\Admin Form\\FormAdmin.Designer.vb",
+              "RelativeToolTip": "Pages\\Admin Form\\FormAdmin.Designer.vb",
+              "ViewState": "AgIAALoAAAAAAAAAAAAmwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T03:13:23.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAdmin.vb [Design]",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\Admin Form\\FormAdmin.vb",
+              "RelativeDocumentMoniker": "Pages\\Admin Form\\FormAdmin.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\Admin Form\\FormAdmin.vb [Design]*",
+              "RelativeToolTip": "Pages\\Admin Form\\FormAdmin.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T02:47:56.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormUser.vb [Design]",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\User Form\\FormUser.vb",
+              "RelativeDocumentMoniker": "Pages\\User Form\\FormUser.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\User Form\\FormUser.vb [Design]",
+              "RelativeToolTip": "Pages\\User Form\\FormUser.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T02:54:18.386Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormUser.Designer.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\User Form\\FormUser.Designer.vb",
+              "RelativeDocumentMoniker": "Pages\\User Form\\FormUser.Designer.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\User Form\\FormUser.Designer.vb",
+              "RelativeToolTip": "Pages\\User Form\\FormUser.Designer.vb",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwJMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T03:13:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainApp.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\MainApp.vb",
+              "RelativeDocumentMoniker": "MainApp.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\MainApp.vb",
+              "RelativeToolTip": "MainApp.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T12:36:38.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainApp.vb [Design]",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\MainApp.vb",
+              "RelativeDocumentMoniker": "MainApp.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\MainApp.vb [Design]",
+              "RelativeToolTip": "MainApp.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T03:14:44.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAdmin.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\Admin Form\\FormAdmin.vb",
+              "RelativeDocumentMoniker": "Pages\\Admin Form\\FormAdmin.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\Admin Form\\FormAdmin.vb*",
+              "RelativeToolTip": "Pages\\Admin Form\\FormAdmin.vb*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T02:51:42.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.Designer.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\Login Form\\LoginForm.Designer.vb",
+              "RelativeDocumentMoniker": "Pages\\Login Form\\LoginForm.Designer.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\Login Form\\LoginForm.Designer.vb",
+              "RelativeToolTip": "Pages\\Login Form\\LoginForm.Designer.vb",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwHIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T01:42:10.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.vb [Design]",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\Login Form\\LoginForm.vb",
+              "RelativeDocumentMoniker": "Pages\\Login Form\\LoginForm.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\Login Form\\LoginForm.vb [Design]",
+              "RelativeToolTip": "Pages\\Login Form\\LoginForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T01:38:05.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormUser.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Pages\\User Form\\FormUser.vb",
+              "RelativeDocumentMoniker": "Pages\\User Form\\FormUser.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Pages\\User Form\\FormUser.vb",
+              "RelativeToolTip": "Pages\\User Form\\FormUser.vb",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAwwIsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T03:12:03.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Client",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Client.vbproj",
+              "RelativeDocumentMoniker": "Client.vbproj",
+              "ToolTip": "D:\\Test_Sector\\Client\\Client.vbproj",
+              "RelativeToolTip": "Client.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-12-03T09:50:23.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserBundle.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Helper\\UserBundle.vb",
+              "RelativeDocumentMoniker": "Helper\\UserBundle.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Helper\\UserBundle.vb",
+              "RelativeToolTip": "Helper\\UserBundle.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T03:28:59.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConstantManager.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Helper\\ConstantManager.vb",
+              "RelativeDocumentMoniker": "Helper\\ConstantManager.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Helper\\ConstantManager.vb",
+              "RelativeToolTip": "Helper\\ConstantManager.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA8wAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T02:00:42.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Form2.vb",
+              "RelativeToolTip": "Form2.vb",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T21:30:49.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Form2.vb [Design]",
+              "RelativeToolTip": "Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T21:30:43.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpRequestHandler.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Libs\\Http\\HttpRequestHandler.vb",
+              "RelativeDocumentMoniker": "Libs\\Http\\HttpRequestHandler.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\Libs\\Http\\HttpRequestHandler.vb",
+              "RelativeToolTip": "Libs\\Http\\HttpRequestHandler.vb",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAiwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T03:23:45.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "ApplicationEvents.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\ApplicationEvents.vb",
+              "RelativeToolTip": "ApplicationEvents.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T01:50:26.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "D:\\Test_Sector\\Client\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T01:50:31.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Client.vbproj",
+              "DocumentMoniker": "D:\\Test_Sector\\Client\\Client.vbproj",
+              "RelativeDocumentMoniker": "Client.vbproj",
+              "ToolTip": "D:\\Test_Sector\\Client\\Client.vbproj",
+              "RelativeToolTip": "Client.vbproj",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-12-03T01:36:58.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.VisualBasic.CurrentVersion.targets",
+              "DocumentMoniker": "E:\\Applications\\Visual Studio VB\\MSBuild\\Current\\Bin\\amd64\\Microsoft.VisualBasic.CurrentVersion.targets",
+              "ToolTip": "E:\\Applications\\Visual Studio VB\\MSBuild\\Current\\Bin\\amd64\\Microsoft.VisualBasic.CurrentVersion.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-02T21:54:55.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

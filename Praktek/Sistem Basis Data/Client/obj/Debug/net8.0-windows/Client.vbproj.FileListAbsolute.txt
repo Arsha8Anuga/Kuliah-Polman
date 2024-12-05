@@ -1,0 +1,76 @@
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\bin\Debug\net8.0-windows\Client.exe
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\bin\Debug\net8.0-windows\Client.deps.json
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\bin\Debug\net8.0-windows\Client.dll
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\bin\Debug\net8.0-windows\Client.pdb
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\bin\Debug\net8.0-windows\HttpMultipartParser.dll
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.vbproj.AssemblyReference.cache
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.Form1.resources
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.vbproj.GenerateResource.cache
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.vb
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.vbproj.CoreCompileInputs.cache
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.sourcelink.json
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.vbproj.Up2Date
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.dll
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\refint\Client.dll
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.pdb
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\ref\Client.dll
+E:\dev_pemograman\Kuliah\Praktek\Sistem Basis Data\Client\obj\Debug\net8.0-windows\Client.Form2.resources
+C:\Users\Dell\Documents\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\Dell\Documents\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\Dell\Documents\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\Dell\Documents\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\Dell\Documents\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\Dell\Documents\Client\bin\Debug\net8.0-windows\HttpMultipartParser.dll
+C:\Users\Dell\Documents\Client\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Dell\Documents\Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.vbproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.Form1.resources
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.Form2.resources
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.LoginForm.resources
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.vbproj.GenerateResource.cache
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.vb
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.vbproj.Up2Date
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\ref\Client.dll
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.FormAdmin.resources
+C:\Users\Dell\Documents\Client\obj\Debug\net8.0-windows\Client.FormUser.resources
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.vbproj.AssemblyReference.cache
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.dll
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\refint\Client.dll
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.pdb
+D:\Test_Sector\Client\bin\Debug\net8.0-windows\Client.exe
+D:\Test_Sector\Client\bin\Debug\net8.0-windows\Client.deps.json
+D:\Test_Sector\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+D:\Test_Sector\Client\bin\Debug\net8.0-windows\Client.dll
+D:\Test_Sector\Client\bin\Debug\net8.0-windows\Client.pdb
+D:\Test_Sector\Client\bin\Debug\net8.0-windows\HttpMultipartParser.dll
+D:\Test_Sector\Client\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Test_Sector\Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.Form2.resources
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.Resources.resources
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.FormAdmin.resources
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.LoginForm.resources
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.FormUser.resources
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.vbproj.GenerateResource.cache
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.vb
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.vbproj.CoreCompileInputs.cache
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.vbproj.Up2Date
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\ref\Client.dll
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.MainApp.resources
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.SPConfirm.resources
+D:\Test_Sector\Client\obj\Debug\net8.0-windows\Client.SPConfirmation.resources

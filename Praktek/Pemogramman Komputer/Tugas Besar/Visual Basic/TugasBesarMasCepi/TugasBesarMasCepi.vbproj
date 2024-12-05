@@ -15,6 +15,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="9.0.0" />
+    <PackageReference Include="OxyPlot.WindowsForms" Version="2.2.0" />
+    <PackageReference Include="OxyPlot.Wpf" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="MySql.Data">
       <HintPath>Reference folder\MySQL Connector\MySql.Data.dll</HintPath>
     </Reference>
@@ -34,5 +40,10 @@
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
     </None>
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Session\Temp\" />
+  </ItemGroup>
+	
 
 </Project>

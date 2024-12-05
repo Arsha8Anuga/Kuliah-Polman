@@ -1,0 +1,90 @@
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\TugasBesarMasCepi.exe
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\TugasBesarMasCepi.deps.json
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\TugasBesarMasCepi.runtimeconfig.json
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\TugasBesarMasCepi.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\TugasBesarMasCepi.pdb
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.vbproj.AssemblyReference.cache
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.Form1.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.vbproj.GenerateResource.cache
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.AssemblyInfoInputs.cache
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.AssemblyInfo.vb
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.vbproj.CoreCompileInputs.cache
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.sourcelink.json
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBes.AB912B49.Up2Date
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\refint\TugasBesarMasCepi.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.pdb
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.genruntimeconfig.cache
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\ref\TugasBesarMasCepi.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\OxyPlot.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.Form2.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.Form3.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.DatabaseVerification.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.LoginUser.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.Menu.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.CreateData.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.LogActivity.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.TableAndVisualization.resources
+E:\dev ( pemogramman )\Kuliah\Praktek\Pemogramman Komputer\Tugas Besar\Visual Basic\TugasBesarMasCepi\obj\Debug\net8.0-windows\TugasBesarMasCepi.Register.resources
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\TugasBesarMasCepi.exe
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\TugasBesarMasCepi.deps.json
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\TugasBesarMasCepi.runtimeconfig.json
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\TugasBesarMasCepi.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\TugasBesarMasCepi.pdb
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\AZKA\Tugas-Besar-PMK\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.vbproj.AssemblyReference.cache
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.Form1.resources
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.Form2.resources
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.Form3.resources
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.LoginUser.resources
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.Register.resources
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.LogActivity.resources
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.CreateData.resources
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.Menu.resources
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.DatabaseVerification.resources
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.TableAndVisualization.resources
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.vbproj.GenerateResource.cache
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.AssemblyInfoInputs.cache
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.AssemblyInfo.vb
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.vbproj.CoreCompileInputs.cache
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.sourcelink.json
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBes.AB912B49.Up2Date
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.dll
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\refint\TugasBesarMasCepi.dll
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.pdb
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\TugasBesarMasCepi.genruntimeconfig.cache
+C:\Users\AZKA\Tugas-Besar-PMK\obj\Debug\net8.0-windows\ref\TugasBesarMasCepi.dll
